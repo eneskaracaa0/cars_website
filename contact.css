@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Finlandica:ital@1&family=Titillium+Web:ital,wght@0,400;1,700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+body {
+    background-color: #9a9ee9;
+}
+
+.col {
+    align-items: center;
+}
